@@ -1,0 +1,22 @@
+Nots DevOPS class
+
+https://github.com/Sonal0409/DevOpsBatch-Morning-12Feb
+https://github.com/Sonal0409/educka/tree/master/1-intall
+
+JENKINS
+https://vimeo.com/825815693/fd44780c35?share=copy
+
+
+https://github.com/tandavpriyaay/gom.git
+
+git@github.com:tandavpriyaay/om.git   (key)
+
+
+20/2/2024 - https://github.com/Sonal0409/DevOps_ClassNotes/blob/master/JENKINS/MSBuildJenkins.docx
+
+https://github.com/Sonal0409/MSbuildProject
+
+
+https://vimeo.com/781458714/3c31cf3073?share=copy
+
+https://github.com/Sonal0409/nodejsappDockerfile
